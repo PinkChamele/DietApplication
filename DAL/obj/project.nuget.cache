@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "te+LBFMRN+rnNyesU8R2b19Jde3RK3QKt5yiqXGCY7W/lN9zrGliBL+vaCOdjVgXa2hC1Xk5NxPsEgqMuuGJfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sashko Makarenko\\source\\repos\\DietApp\\DietApplication\\DAL\\DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sashko Makarenko\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Sashko Makarenko\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Sashko Makarenko\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Sashko Makarenko\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Sashko Makarenko\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Sashko Makarenko\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

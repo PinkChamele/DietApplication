@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DkcVPp8I0bF6d/s0q2H16WGhD9IXEOewTeHiWgZ7e6IuBAnx/c+bGFyrm6ZsBrQjs6UWqBrDIXNJhz86O0F1Qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sashko Makarenko\\source\\repos\\DietApp\\DietApplication\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sashko Makarenko\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sashko Makarenko\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
